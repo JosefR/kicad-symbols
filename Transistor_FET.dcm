@@ -1668,6 +1668,12 @@ K QFET P-Channel MOSFET
 F https://www.onsemi.com/pub/Collateral/FQP27P06-D.PDF
 $ENDCMP
 #
+$CMP IPD053N06N
+D 45A Id, 60V Vds, 5.3mOhm, N-Channel MOSFET, OptiMOS, TO-252 (DPAK)
+K CoolMOS Power MOSFET N-MOS
+F https://www.infineon.com/dgdl/Infineon-IPD053N06N-DS-v02_02-en.pdf?fileId=db3a30433727a44301372c22c4c3499f
+$ENDCMP
+#
 $CMP IPD50R380CE
 D 14.1A Id, 500V Vds, CoolMOS N-Channel Power MOSFET, 380mOhm Ron, 24.8nC Qg (typ), TO-252-2
 K CoolMOS Power MOSFET N-MOS
